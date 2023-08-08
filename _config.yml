@@ -1,0 +1,4 @@
+theme: jekyll-theme-minimal
+title: Raia.kz
+description: AI assistant
+runs-on: self-hosted
